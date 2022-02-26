@@ -36,5 +36,15 @@ Create your own professional portfolio website and add the contents accordingly.
 11 Include the readme.txt and include all the tags used.
   html, head, meta, title, link, body, div, h1, span, a, section, picture, img, h2, p, br, h3, footer
 
-12 For this assignment you need to have good UI(rich UI) as this will be considered while grading.
-  I believe I used it.
+Bootstrap components
+1.) Addded Nav and Navbar
+2.) Added a burger dropdown menu
+3.) Added Search component to the portfolio
+4.) Added alert componentt to page 
+5.) Added Bredcrumbs for easy access to the page
+6.) Added pagination for swapping or redirecting to another pages
+7.) Added Card features for displaying skills and projects 
+8.) Added Dropdown text area 
+9.) Added forms and buttons 
+10.)Added progressive bars
+11.)Added lables and badges 
