@@ -29,4 +29,3 @@ scrollUp.addEventListener("click", () => {
     behavior: "smooth",
   });
 });
-$(".alert").alert('close')
